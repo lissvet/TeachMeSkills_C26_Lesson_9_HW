@@ -1,5 +1,6 @@
 # TeachMeSkills_C26_Lesson_9_HW
 Homework for the ninth lesson  
+
 **task1**  
 Improving the shape assignment with the Sealed modifier for the Shape class. 
 
