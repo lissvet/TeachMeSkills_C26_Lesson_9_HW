@@ -1,14 +1,23 @@
-package com.teachmeskills.lesson9.task3.card;
+package com.teachmeskills.lesson9.task3.model.card;
 
 public abstract class BasicCard{
 
-    public long id;
+    private static int counter;
+    private long id;
     private int cvv;
     private double currentAmount;
     public String currency;
     public double commissionPercentage;
 
+    public BasicCard() {
+        this.id = ++counter;
+    }
+
     abstract public int getTransferLimit();
+
+    public long getId() {
+        return id;
+    }
 
     public int getCvv() {
         return cvv;

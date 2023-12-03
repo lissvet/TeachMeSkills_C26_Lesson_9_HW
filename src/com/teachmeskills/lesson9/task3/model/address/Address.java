@@ -1,12 +1,12 @@
-package com.teachmeskills.lesson9.task3.client;
+package com.teachmeskills.lesson9.task3.model.address;
 
 public class Address {
 
     public String country;
     public String city;
     public String street;
-    public String houseNumber;
-    public String postalCode;
+    public int houseNumber;
+    public int postalCode;
     public Address() {
     }
 

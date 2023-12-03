@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson9.task3.constant;
+package com.teachmeskills.lesson9.task3.model.constant;
 
 public interface ILimit {
 
