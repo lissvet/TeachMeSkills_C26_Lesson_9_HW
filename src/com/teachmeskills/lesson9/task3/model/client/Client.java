@@ -3,8 +3,6 @@ package com.teachmeskills.lesson9.task3.model.client;
 import com.teachmeskills.lesson9.task3.model.address.Address;
 import com.teachmeskills.lesson9.task3.model.card.BasicCard;
 
-import java.util.Date;
-
 public class Client {
     public String name;
     public String surname;

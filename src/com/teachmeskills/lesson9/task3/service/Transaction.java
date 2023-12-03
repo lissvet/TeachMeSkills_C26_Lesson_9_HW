@@ -3,7 +3,6 @@ package com.teachmeskills.lesson9.task3.service;
 import com.teachmeskills.lesson9.task3.model.card.BasicCard;
 
 import java.util.Objects;
-import java.util.Scanner;
 
 import static com.teachmeskills.lesson9.task3.model.constant.IConst.BYN_TO_USD;
 import static com.teachmeskills.lesson9.task3.model.constant.IConst.USD_TO_BYN;
